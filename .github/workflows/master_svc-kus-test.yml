@@ -54,4 +54,4 @@ jobs:
           app-name: 'svc-kus-test'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9BF1E578EE2B4D5291844577BB11567D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BFAAAC666AC54E1988EBE423F2C604EA }}
